@@ -10,12 +10,18 @@ ISAs are the future and they're not nearly as big as they should be.
 ### Workplace education
 How do you efficiently change behavior at work?
 
+## What I'm doing right now
+I'm writing this from Seattle, and then I'll be in a Mexico City from Jan 11 to at least the end of February. Now that I'm over the dengue fever I caught in December, I'm exploring interesting ideas full time.
+
+## What I'm looking for
+Cofounders who want to work on interesting stuff together to both test and build professional relationships. I also _really_ like chatting on video calls. 
+
 ## Stuff I like
 ### Technology
  * Python
- * Django
- * Heroku
+ * Djang
  * Z3
+ * Heroku
 
 ### Activities
  * Scuba
