@@ -28,7 +28,7 @@ Cofounders who want to work on interesting stuff together to both test and build
 ## Stuff I like
 ### Technology
  * Python
- * Djang
+ * Django
  * Z3
  * Heroku
 
