@@ -1,6 +1,6 @@
 # I'm looking for cofounders
 
-If you'd like to talk about starting a startup or know someone who would, email me at \[mylastname\]@gmail.com.
+If you'd like to talk about starting a startup or know someone who would, email me at jungroth@gmail.com or just [throw something on my calendar](https://calendly.com/travisjungroth/30min).
 
 ## Problems I'm interested in
 
