@@ -4,9 +4,6 @@ If you'd like to talk about starting a startup or know someone who would, email 
 
 ## Problems I'm interested in
 
-### Getting income share agreements to everyone
-ISAs are the future and they're not nearly as big as they should be.
-
 ### Workplace education
 How do you efficiently change behavior at work?
 
@@ -16,6 +13,9 @@ I've hacked together a system for productivity, learning and habit change using 
 ### Workplace communication
 I think workplace communication is bad and getting worse, not better. 
 
+### Getting income share agreements to everyone
+ISAs are the future and they're not nearly as big as they should be.
+
 ### Many more
 Whatever you've identified as a problem, I'm probably sympathetic. 
 
@@ -23,7 +23,7 @@ Whatever you've identified as a problem, I'm probably sympathetic.
 I'm writing this from Seattle, and then I'll be in a Mexico City from Jan 11 to at least the end of February. Now that I'm over the dengue fever I caught in December, I'm exploring interesting ideas full time.
 
 ## What I'm looking for
-Cofounders who want to work on interesting stuff together to both test and build professional relationships. I also _really_ like chatting on video calls. 
+Cofounders who want to work on interesting stuff together to both test and build professional relationships. I'm also just happy to chat on a quick video call. 
 
 ## Stuff I like
 ### Technology
