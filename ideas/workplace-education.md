@@ -1,7 +1,7 @@
 ---
-title: "Knowledge Deployment"
+title: "Workplace Education"
 ---
-# Knowledge Deployment
+# Workplace Education
 ## Description
 ### Problem
 Getting everyone at the company to know something is really slow and expensive. People generally don’t know the right thing much of the time. [More detail](https://docs.google.com/document/d/1ftUXI0v2sY21ZCqNVvDoomJAAaEI006aC0mmsygsolg/edit?usp=sharing).
