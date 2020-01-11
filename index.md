@@ -7,7 +7,7 @@ If you'd like to talk about starting a startup or know someone who would, email 
 ### [Creating test data](http://travisjungroth.com/ideas/creating-test-data)
 Creating test data for manual QA is hard but could be really easy.
 
-### Workplace education
+### [Workplace Education](http://travisjungroth.com/ideas/workplace-education)
 How do you efficiently change behavior at work?
 
 ### [Personal productivity and habit changing](http://travisjungroth.com/ideas/personal-productivity-and-habit-changing)
