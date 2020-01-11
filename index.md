@@ -13,13 +13,13 @@ How do you efficiently change behavior at work?
 ### [Personal Productivity and Habit Changing](http://travisjungroth.com/ideas/personal-productivity-and-habit-changing)
 I've hacked together a system for productivity, learning and habit change using Todoist, Airtable, Zapier and Anki. I like it more than any off-the-shelf solution, which is weird. 
 
-### [Workplace Communication](http://travisjungroth.com/ideas/workplace-communication.md)
+### [Workplace Communication](http://travisjungroth.com/ideas/workplace-communication)
 I think workplace communication is bad and getting worse.
 
-### [Reflection](http://travisjungroth.com/ideas/reflection.md)
+### [Reflection](http://travisjungroth.com/ideas/reflection)
 Did we do what we planned and was it the right thing to do?
 
-### Getting Income Share Agreements to Everyone
+### [Income Share Agreements for Everyone]((http://travisjungroth.com/ideas/income-share-agreements-for-everyone)
 ISAs are the future and they're not nearly as big as they should be.
 
 ### Many more
