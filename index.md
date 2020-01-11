@@ -4,13 +4,13 @@ If you'd like to talk about starting a startup or know someone who would, email 
 
 ## Ideas I'm interested in
 
-### [Creating test data](http://travisjungroth.com/ideas/creating-test-data)
+### [Creating Test Data](http://travisjungroth.com/ideas/creating-test-data)
 Creating test data for manual QA is hard but could be really easy.
 
 ### [Workplace Education](http://travisjungroth.com/ideas/workplace-education)
 How do you efficiently change behavior at work?
 
-### [Personal productivity and habit changing](http://travisjungroth.com/ideas/personal-productivity-and-habit-changing)
+### [Personal Productivity and Habit Changing](http://travisjungroth.com/ideas/personal-productivity-and-habit-changing)
 I've hacked together a system for productivity, learning and habit change using Todoist, Airtable, Zapier and Anki. I like it more than any off-the-shelf solution, which is weird. 
 
 ### Workplace communication
