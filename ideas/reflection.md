@@ -1,7 +1,7 @@
 ---
-title: "Following Through"
+title: "Reflection"
 ---
-# Following Through
+# Reflection
 ## Description
 ### Problem
 I’m not sure how good I am at following through on things, and I’d like to be better. I think as an individual and as organizations, we come up with these big plans but don’t look backwards to decide if they were right or we even did them.
