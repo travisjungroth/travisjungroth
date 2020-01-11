@@ -8,12 +8,12 @@ title: ""#
 ### Possible Solutions
 
 ## [Evaluation](https://www.youtube.com/watch?v=DOtCl5PU8F0)
-### Problem
+### Problem ✔️
 |  Metric   | 1      | 2            | 3         | 4           |
 | --------- | ------ | ------------ | --------- | ----------- |
 | Popular   | <10k   | >10k         | >100k     | >1m         |
 | Growing   | <0%    | >0%          | >10%      | 20%         |
-| Urgent    | Year   | Month        | Week      | Right now   |
+| Urgent    | >Year  | <Year        | <Month    | Right now   |
 | Expensive | <$10m  | >$10m        | >$100m    | $1b+        |
 | Mandatory | Averse | Nice to have | Important | Law changed |
 | Frequent  | Yearly | Monthly      | Weekly    | Hourly      |
