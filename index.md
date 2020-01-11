@@ -14,7 +14,10 @@ How do you efficiently change behavior at work?
 I've hacked together a system for productivity, learning and habit change using Todoist, Airtable, Zapier and Anki. I like it more than any off-the-shelf solution, which is weird. 
 
 ### [Workplace Communication](http://travisjungroth.com/ideas/workplace-communication.md)
-I think workplace communication is bad and getting worse. 
+I think workplace communication is bad and getting worse.
+
+### [Reflection](http://travisjungroth.com/ideas/reflection.md)
+Did we do what we planned and was it the right thing to do?
 
 ### Getting Income Share Agreements to Everyone
 ISAs are the future and they're not nearly as big as they should be.
