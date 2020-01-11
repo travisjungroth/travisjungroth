@@ -2,7 +2,10 @@
 
 If you'd like to talk about starting a startup or know someone who would, email me at [jungroth@gmail.com](mailto:jungroth@gmail.com) or just throw something on [my calendar](https://calendly.com/travisjungroth/30min).
 
-## Problems I'm interested in
+## Ideas I'm interested in
+
+### [Creating test data](http://travisjungroth.com/ideas/creating-test-data)
+Creating test data for manual QA is hard but could be really easy.
 
 ### Workplace education
 How do you efficiently change behavior at work?
@@ -20,7 +23,7 @@ ISAs are the future and they're not nearly as big as they should be.
 Whatever you've identified as a problem, I'm probably sympathetic. 
 
 ## What I'm doing right now
-I'm writing this from Seattle, and then I'll be in a Mexico City from Jan 11 to at least the end of February. Now that I'm over the dengue fever I caught in December, I'm exploring interesting ideas full time.
+I'm living in Mexico City and exploring interesting ideas full time.
 
 ## What I'm looking for
 Cofounders who want to work on interesting stuff together to both test and build professional relationships. I'm also just happy to chat on a quick video call. 
