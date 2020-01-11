@@ -4,8 +4,9 @@ title: "Creating Test Data"
 # Creating Test Data
 ## Description
 ### Problem
-
+Creating test data for manual QA is hard. Creating test data for an external test system ([Rainforest QA](https://rainforestqa.com), Selenium as a separate service) is even harder. People who write test plans often aren't able to code.
 ### Possible Solutions
+A database transaction recorder. Turn it on, create one example of the data that you want, then have an option to multiply. This will all get saved as executable SQL, so a new test database can be created instantly. No coding required, but the outputs are changeable.
 
 ## [Evaluation](https://www.youtube.com/watch?v=DOtCl5PU8F0)
 ### Problem
@@ -29,8 +30,11 @@ title: "Creating Test Data"
 
 ### Additional
 #### Who desperately needs this product?
+Manual QA engineers, people using testing service.
 
 #### Am I the target user, know them extremely well, or neither?
+I know the target user extrememly well. I was a solutions engineer selling a crowd testing product for a year.
 
 #### Is this designed and created to grow very quickly?
+Yes.
 
