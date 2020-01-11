@@ -4,22 +4,22 @@ If you'd like to talk about starting a startup or know someone who would, email 
 
 ## Ideas I'm interested in
 
-### [Creating Test Data](http://travisjungroth.com/ideas/creating-test-data)
+### [Creating Test Data](https://travisjungroth.com/ideas/creating-test-data)
 Creating test data for manual QA is hard but could be really easy.
 
-### [Workplace Education](http://travisjungroth.com/ideas/workplace-education)
+### [Workplace Education](https://travisjungroth.com/ideas/workplace-education)
 How do you efficiently change behavior at work?
 
-### [Personal Productivity and Habit Changing](http://travisjungroth.com/ideas/personal-productivity-and-habit-changing)
+### [Personal Productivity and Habit Changing](https://travisjungroth.com/ideas/personal-productivity-and-habit-changing)
 I've hacked together a system for productivity, learning and habit change using Todoist, Airtable, Zapier and Anki. I like it more than any off-the-shelf solution, which is weird. 
 
-### [Workplace Communication](http://travisjungroth.com/ideas/workplace-communication)
+### [Workplace Communication](https://travisjungroth.com/ideas/workplace-communication)
 I think workplace communication is bad and getting worse.
 
-### [Reflection](http://travisjungroth.com/ideas/reflection)
+### [Reflection](https://travisjungroth.com/ideas/reflection)
 Did we do what we planned and was it the right thing to do?
 
-### [Income Share Agreements for Everyone]((http://travisjungroth.com/ideas/income-share-agreements-for-everyone)
+### [Income Share Agreements for Everyone](https://travisjungroth.com/ideas/income-share-agreements-for-everyone)
 ISAs are the future and they're not nearly as big as they should be.
 
 ### Many more
