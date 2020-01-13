@@ -4,7 +4,7 @@ title: "Reflection"
 # Reflection
 ## Description
 ### Problem
-I’m not sure how good I am at following through on things, and I’d like to be better. I think as an individual and as organizations, we come up with these big plans but don’t look backwards to decide if they were right or we even did them.
+I’m not sure how good I am at following through on things, and I’d like to be better. I think as an individual and as organizations, we come up with these big plans but don’t look backwards to decide if they were right or we even did them. There's an overlap with this and [Workplace Education](/ideas/workplace-education) as well as [Personal Productivity and Habit Changing](/ideas/personal-productivity-and-habit-changing)
 
 ### Possible Solutions
 Record what you want to do this day/week/month/year, then score yourself at the end of the period on two categories: did you do it and was it the right thing to do?
