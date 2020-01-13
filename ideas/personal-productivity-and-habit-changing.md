@@ -15,7 +15,7 @@ Basecamp for personal productivity and habit changing. Also using a spaced repet
 | Popular   | <10k   | >10k         | >100k     | ✔️>1m         |
 | Growing   | <0%    | >0%          | ✔️>10%      | >20%         |
 | Urgent    | >Year  | ✔️<Year        | <Month    | Right now   |
-| Expensive | <$10m  | >$10m        | >$100m    | ✔️$1b+        |
+| Expensive | <$10m  | >$10m        | ✔️>$100m    | $1b+        |
 | Mandatory | Averse | Nice to have | ✔️Important | Law changed |
 | Frequent  | Yearly | Monthly      | Weekly    | ✔️Hourly      |
 
