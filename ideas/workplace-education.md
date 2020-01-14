@@ -8,7 +8,8 @@ Getting everyone at a company to know something is really slow and expensive. Pe
 ### Possible Solutions
 Knowledge deployment software. Have everyone at your company know the things they should. Spaced repetition component.
 
-## [Evaluation](https://www.youtube.com/watch?v=DOtCl5PU8F0)
+## Evaluation
+The scorecards below are explained [here](/scorecards-explained).
 ### Problem
 |  Metric   | 1      | 2            | 3         | 4           |
 | --------- | ------ | ------------ | --------- | ----------- |

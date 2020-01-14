@@ -9,7 +9,8 @@ Getting access to money, even when it will make your life better, is hard.
 ### Possible Solutions
 Income share agreements for everyone.
 
-## [Evaluation](https://www.youtube.com/watch?v=DOtCl5PU8F0)
+## Evaluation
+The scorecards below are explained [here](/scorecards-explained).
 ### Problem
 |  Metric   | 1      | 2            | 3         | 4           |
 | --------- | ------ | ------------ | --------- | ----------- |

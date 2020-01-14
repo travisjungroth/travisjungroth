@@ -9,7 +9,8 @@ Workplace communication both prevents deep work and encourages slow responses.
 ### Possible Solutions
 Tiered workplace communication. Interruptive/2 hours/36 hours. Todo lists you can assign into and give responses back (replacing email). Could maybe start as a Gmail/Slack extension.
 
-## [Evaluation](https://www.youtube.com/watch?v=DOtCl5PU8F0)
+## Evaluation
+The scorecards below are explained [here](/scorecards-explained).
 ### Problem
 |  Metric   | 1      | 2            | 3         | 4           |
 | --------- | ------ | ------------ | --------- | ----------- |

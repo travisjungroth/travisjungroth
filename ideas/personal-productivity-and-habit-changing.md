@@ -8,7 +8,8 @@ I've hacked together a system for productivity, learning and habit change using 
 ### Possible Solutions
 Basecamp for personal productivity and habit changing. Also using a spaced repetition component on habits.
 
-## [Evaluation](https://www.youtube.com/watch?v=DOtCl5PU8F0)
+## Evaluation
+The scorecards below are explained [here](/scorecards-explained).
 ### Problem
 |  Metric   | 1      | 2            | 3         | 4           |
 | --------- | ------ | ------------ | --------- | ----------- |

@@ -9,7 +9,8 @@ I’m not sure how good I am at following through on things, and I’d like to b
 ### Possible Solutions
 Record what you want to do this day/week/month/year, then score yourself at the end of the period on two categories: did you do it and was it the right thing to do?
 
-## [Evaluation](https://www.youtube.com/watch?v=DOtCl5PU8F0)
+## Evaluation
+The scorecards below are explained [here](/scorecards-explained).
 ### Problem
 |  Metric   | 1      | 2            | 3         | 4           |
 | --------- | ------ | ------------ | --------- | ----------- |

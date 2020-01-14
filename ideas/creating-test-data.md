@@ -8,7 +8,8 @@ Creating test data for manual QA is hard. Creating test data for an external tes
 ### Possible Solutions
 A database transaction recorder. Turn it on, create one example of the data that you want, then have an option to multiply. This will all get saved as executable SQL, so a new test database can be created instantly. No coding required, but the outputs are changeable.
 
-## [Evaluation](https://www.youtube.com/watch?v=DOtCl5PU8F0)
+## Evaluation
+The scorecards below are explained [here](/scorecards-explained).
 ### Problem
 |  Metric   | 1      | 2            | 3         | 4           |
 | --------- | ------ | ------------ | --------- | ----------- |
