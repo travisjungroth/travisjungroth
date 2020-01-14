@@ -42,7 +42,7 @@ Yes.
 ## More Thoughts
 I cobbled together a system for tracking tasks and habits, and it has had a huge effect on my productivity. I think of it three levels.
 
-First is the meta-system. It’s how I make sure the system is working. I’m doing weekly reviews and writing things down. It’s similar to the idea of Reflection, but there’s nothing groundbreaking here.
+First is the meta-system. It’s how I make sure the system is working. I’m doing weekly reviews and writing things down. It’s similar to the idea of [Reflection](/ideas/reflection), but there’s nothing groundbreaking here.
 
 Second is the system itself. The tasks component of this is pretty standard. I’m just using Google Calendar and Todoist. The habit part is what’s special. I added in Python and Airtable. I was using Zapier, but I’m not right now. More detail on this in a bit.
 
