@@ -4,7 +4,7 @@ title: "Workplace Education"
 # Workplace Education
 ## Description
 ### Problem
-Getting everyone at a company to know something is really slow and expensive. People generally don’t know the right thing much of the time. Much more detail [below](/ideas/workplace-education#more-thoughts).
+Getting everyone at a company to know something is really slow and expensive. People generally don’t know the right thing much of the time. Much more detail [below](#more-thoughts).
 ### Possible Solutions
 Knowledge deployment software. Have everyone at your company know the things they should. Spaced repetition component.
 
