@@ -79,7 +79,7 @@ But what about group work? Collaboration? All knowledge work is inherently indiv
 
 Workplace attempts to change internal information have much room for improvement. They attempt to create information that isn’t needed. They don’t provide information when it is needed. They fail to notify about updates in external information.
 
-- Workers need less internal information than is being put in there
+- Workers need less internal information than they're given
 - Reference invalidation is usually more useful than updates. I don’t need to know the new information, I just need to know that the old information is wrong and where to find the new information
 - Information that does need to be internalized isn’t actually
     - Think of your last company email with a piece of information everyone “needs to know”. A week later, what percentage of employees could answer that information on a test? Either the update operation failed and there were damages or it wasn’t needed in the first place
