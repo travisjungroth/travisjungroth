@@ -95,3 +95,4 @@ Shallow vs. deep work.
 - It is expensive to have other people’s minds in information chains
 - Little must be updated immediately
 
+If you'd like to talk about this idea, email me at [jungroth@gmail.com](mailto:jungroth@gmail.com) or put a time for a video call on [my calendar](https://calendly.com/travisjungroth/30min).
