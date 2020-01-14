@@ -35,7 +35,7 @@ The scorecards below are explained [here](/scorecards-explained).
 People and organizations that don't learn from their mistakes.
 
 #### Am I the target user, know them extremely well, or neither?
-I'm the target user as an individual, but not for organizations at the moment.
+I'm the target user as an individual, and for organizations when working at a company.
 
 #### Is this designed and created to grow very quickly?
 Yes.
