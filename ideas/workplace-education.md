@@ -40,7 +40,7 @@ I know the target user well (so neither).
 Yes.
 
 ## More Thoughts
-One mental model that’s useful for office work is to consider at the root of everything a worker does is information. Nearly all tasks are based on information, not physical abilities. A worker can be considered to have two parts: the internal and the external. The internal is their body and mind. 
+One mental model that’s useful for office work is to consider that at the root of everything a worker does is information. Nearly all tasks are based on information, not physical abilities. A worker can be considered to have two parts: the internal and the external. The internal is their body and mind. 
 
 There is not much to be done directly to the body. The mind is where they operate from. The external is all the resources they have available to them. The worker must have the knowledge that these resources exist and the knowledge of how to use them.
 
