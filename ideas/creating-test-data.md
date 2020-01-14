@@ -31,7 +31,7 @@ The scorecards below are explained [here](/scorecards-explained).
 
 ### Additional
 #### Who desperately needs this product?
-Manual QA engineers, people using testing service.
+Manual QA engineers, people using automated testing services.
 
 #### Am I the target user, know them extremely well, or neither?
 I know the target user extrememly well. I was a solutions engineer selling a crowd testing product for a year.
