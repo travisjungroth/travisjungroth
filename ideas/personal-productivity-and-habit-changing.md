@@ -4,7 +4,7 @@ title: "Personal Productivity and Habit Changing"
 # Personal Productivity and Habit Changing
 ## Description
 ### Problem
-I've hacked together a system for productivity, learning and habit change using Todoist, Airtable, Zapier and Anki. I like it more than any off-the-shelf solution, which is weird.
+I've hacked together a system for productivity, learning and habit change using Todoist, Airtable, Zapier and Anki. I like it more than any off-the-shelf solution, which is weird. Much more detail [below](#more-thoughts).
 ### Possible Solutions
 Basecamp for personal productivity and habit changing. Also using a spaced repetition component on habits.
 
