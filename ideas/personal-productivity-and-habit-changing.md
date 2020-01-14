@@ -38,3 +38,20 @@ I'm the target user.
 
 #### Is this designed and created to grow very quickly?
 Yes.
+
+## More Thoughts
+I cobbled together a system for tracking tasks and habits, and it has had a huge effect on my productivity. I think of it three levels.
+
+First is the meta-system. It’s how I make sure the system is working. I’m doing weekly reviews and writing things down. It’s similar to the idea of Reflection, but there’s nothing groundbreaking here.
+
+Second is the system itself. The tasks component of this is pretty standard. I’m just using Google Calendar and Todoist. The habit part is what’s special. I added in Python and Airtable. I was using Zapier, but I’m not right now. More detail on this in a bit.
+
+Third are the tasks and habits. Nothing too special here. Meditation, weightlifting and reading. I’m also using Anki, which made me realize my memory of books I read was essentially zero. I think there’d be a business in selling Anki (or other SRS software) decks of books if it wasn’t for all the copyright.
+
+I didn’t use off-the-shelf habit tracking software because I didn’t see anything that fit. The main requirement I couldn’t find was I wanted my habits to be in task system, and I didn’t see one that handled both really well.
+
+The system is pretty simple. I have a “habit” project in Todoist. In it are recurring tasks. I also have a Python script with the tasks. The tasks are duplicated, but I may rewrite it to pull from the Todoist API. Each week I run the script, which creates a list of the habits/tasks I want to do each day. It exports it in a tab separated format that I can paste into Airtable. At the end of each day, I mark off in Airtable which tasks I completed. I was doing this with Zapier, but I was hitting an API limit on Todoist with only a handful of requests. In Airtable, I’m able to see stats and a calendar related to my habits.
+
+I’d love to have this all in one system. The tasks and habit tracking especially, but maybe some of the meta system and the habits as well. 
+
+If you'd like to talk about this idea, email me at [jungroth@gmail.com](mailto:jungroth@gmail.com) or put a time for a video call on [my calendar](https://calendly.com/travisjungroth/30min).
