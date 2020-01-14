@@ -25,7 +25,7 @@ ISAs are the future and they're not nearly as big as they should be. [read more]
 Whatever you've identified as a problem, I'm probably sympathetic. 
 
 ## What I'm doing right now
-I'm living in Mexico City and exploring interesting ideas full time.
+I'm living in Mexico City and exploring interesting ideas full time. I may move back to the Bay Area.
 
 ## What I'm looking for
 Cofounders who want to work on interesting stuff together to both test and build professional relationships. I'm also just happy to chat on a quick video call. 
