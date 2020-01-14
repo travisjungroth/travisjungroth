@@ -40,7 +40,7 @@ I know the target user extrememly well. I was a solutions engineer selling a cro
 Yes.
 
 ## More Thoughts
-I worked at Rainforest QA as a Solutions Engineer, but the more accurate title was Sales Engineer. For seven months I was exclusively on sales calls (I’d later spend another seven months with customers). Getting a proper testing environment set up was a concern on every deal. Usually we worked through it, and about 20% of the time it killed the deal. If it didn’t kill it outright, it could be a contributing factor.
+I worked at [Rainforest QA](https://rainforestqa.com) as a Solutions Engineer, but the more accurate title was Sales Engineer. For seven months I was exclusively on sales calls (I’d later spend another seven months with customers). Getting a proper testing environment set up was a concern on every deal. Usually we worked through it, and about 20% of the time it killed the deal. If it didn’t kill it outright, it could be a contributing factor.
 
 There are three parts to having a testing environment: having the environment infrastructure (app servers and databases), handling external services and creating test data. I don’t think there’s a current business opportunity in making the infrastructure easier to set up. That’s PaaS + the company internals.
 
