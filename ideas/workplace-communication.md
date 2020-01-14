@@ -12,7 +12,7 @@ Tiered workplace communication. Interruptive/2 hours/36 hours. Todo lists you ca
 ## Evaluation
 The scorecards below are explained [here](/scorecards-explained).
 ### Problem
-|  Metric   | 1      | 2            | 3         | 4           |
+|  Metric   | Terrible | Bad        | Good        | Great        |
 | --------- | ------ | ------------ | --------- | ----------- |
 | Popular   | <10k   | >10k         | >100k     | ✔️>1m         |
 | Growing   | <0%    | >0%          | ✔️>10%      | >20%         |

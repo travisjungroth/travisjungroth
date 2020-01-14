@@ -12,7 +12,7 @@ Record what you want to do this day/week/month/year, then score yourself at the 
 ## Evaluation
 The scorecards below are explained [here](/scorecards-explained).
 ### Problem
-|  Metric   | 1      | 2            | 3         | 4           |
+|  Metric   | Terrible | Bad        | Good        | Great        |
 | --------- | ------ | ------------ | --------- | ----------- |
 | Popular   | <10k   | >10k         | >100k     | ✔️>1m         |
 | Growing   | <0%    | ✔️>0%          | >10%      | >20%         |

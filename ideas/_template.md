@@ -9,7 +9,7 @@ title: ""#
 
 ## [Evaluation](https://www.youtube.com/watch?v=DOtCl5PU8F0)
 ### Problem ✔️
-|  Metric   | 1      | 2            | 3         | 4           |
+|  Metric   | Terrible | Bad        | Good        | Great        |
 | --------- | ------ | ------------ | --------- | ----------- |
 | Popular   | <10k   | >10k         | >100k     | >1m         |
 | Growing   | <0%    | >0%          | >10%      | >20%         |
