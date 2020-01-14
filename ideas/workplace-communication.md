@@ -67,6 +67,6 @@ I’m surprised that it hasn’t happened yet, which probably means that I don�
 
 A new app could make itself useful right away by integrating with the existing services. Just email and Slack cover most Silicon Valley employees. Translating all the messages into tasks is just making a better inbox, but it’s a start. Once a team or company adopts it, they could start getting a lot of value out of assigning tasks to each other. Eventually there could be a critical mass where people in different companies are assigning tasks to each other.
 
-As an aside, I think there could be a need for an instant messaging service that isn’t a never ending conversation. Text has benefits over voice or video, but it doesn’t usually have an obvious start an end to the conversation. Personally, I’d love an instant message service that I could hang up.
+As an aside, I think there could be a need for an instant messaging service that isn’t a never ending conversation. Text has benefits over voice or video, but it doesn’t usually have an obvious start and end to the conversation. Personally, I’d love an instant message service that I could hang up.
 
 If you'd like to talk about this idea, email me at [jungroth@gmail.com](mailto:jungroth@gmail.com) or put a time for a video call on [my calendar](https://calendly.com/travisjungroth/30min).
