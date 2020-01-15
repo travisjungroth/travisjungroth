@@ -6,7 +6,7 @@ title: "Workplace Education"
 ### Problem
 Getting everyone at a company to know something is really slow and expensive. People generally don’t know the right thing much of the time. Much more detail [below](#more-thoughts).
 ### Possible Solutions
-Knowledge deployment software. Have everyone at your company know the things they should. Spaced repetition component.
+Knowledge deployment software. Have everyone at your company know the things they should. It'll include a [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) component.
 
 ## Evaluation
 The scorecards below are explained [here](/scorecards-explained).
@@ -40,13 +40,15 @@ I know the target user well (so neither).
 Yes.
 
 ## More Thoughts
-One mental model that’s useful for office work is to consider that at the root of everything a worker does is information. Nearly all tasks are based on information, not physical abilities. A worker can be considered to have two parts: the internal and the external. The internal is their body and mind. 
+One mental model that’s useful for office work is to consider that at the root of everything a worker does is information. Nearly all tasks are based on information, not physical abilities. A worker can be considered to have two parts: the internal and the external. 
 
-There is not much to be done directly to the body. The mind is where they operate from. The external is all the resources they have available to them. The worker must have the knowledge that these resources exist and the knowledge of how to use them.
+The internal is their body and mind. There is not much to be done directly to the body. The mind is where they operate from. 
+
+The external is all the resources they have available to them. The worker must have the knowledge that these resources exist and the knowledge of how to use them.
 
 The only information that a worker has available to them all of the time is what’s in their mind. For all external information, they must know that it exists and how to find it.
-“
-Workplace communication” is the act of updating information, specifically what’s in the mind of workers. To use programming terms, you can create, read or update (deletion is not yet possible).
+
+“Workplace education” is the act of updating information, specifically what’s in the mind of workers. To use programming terms, you can create, read or update (deletion is [not yet possible](https://www.youtube.com/watch?v=rb9a00bXf-U)).
 External information is what they have available to them.
 
 - Documentation
@@ -81,7 +83,7 @@ Workplace attempts to change internal information have much room for improvement
 
 - Workers need less internal information than they're given
 - Reference invalidation is usually more useful than updates. I don’t need to know the new information, I just need to know that the old information is wrong and where to find the new information
-- Information that does need to be internalized isn’t actually
+- Information that needs to be internalized often isn't
     - Think of your last company email with a piece of information everyone “needs to know”. A week later, what percentage of employees could answer that information on a test? Either the update operation failed and there were damages or it wasn’t needed in the first place
 - Information updates could happen in batches and with less interruption
 - Demands for information could happen with less interruption
@@ -94,5 +96,13 @@ Shallow vs. deep work.
 - Information chains must be kept updated
 - It is expensive to have other people’s minds in information chains
 - Little must be updated immediately
+
+A similar model is to compare a person to a computer. A human brain is more powerful than the most powerful super computer in raw calculations, though they're better at different things. One place where computers are wildly better is in code deployment; it's a solved problem. It can a litte annoying some times, and there are extreme cases (cosmic rays) but you people can reliably get instructions onto a computer and be confident they won't change over time. 
+
+This is not at all true of humans. It's normal to transmit instructions to a person and only 20% of the information gets across. Can you imagine deploying a code change and only 20% makes it? The only reason humans can function at all is because of their incredibly powerful brains and all the other instructions they have to draw from (but maybe these aren't the instructions you want).
+
+Even once the instructions are received, they're not stable. People forget. Or worse, misremember. It's only through reuse that the instructions get cemented.
+
+I think there's a lot to be learned in comparing existing workplace education to code deployment. What would "continuous deployment for people" look like? What would happen if McDonald's could update their staff as fast as their servers? What does each component translate to (staging servers, testing, etc) in a person? I have some ideas.
 
 If you'd like to talk about this idea, email me at [jungroth@gmail.com](mailto:jungroth@gmail.com) or put a time for a video call on [my calendar](https://calendly.com/travisjungroth/30min).
