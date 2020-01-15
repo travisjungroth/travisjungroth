@@ -55,10 +55,10 @@ I think both of these things are painful, and incredibly valuable. By actually l
 
 A process to make this reflection easier is to freeze the plan when you have one, look back at it later and ask two questions: Did we do it? Was this the right thing to do? The product of these two binary questions is informative and actionable.
 
-We did it and it was the right thing to do: Great! Do it again!
-We did it and it wasn’t the right thing to do: You learned something. Make a change and do that.
-We didn’t do it and it was the right thing to do: There was some sort of execution failure. Identify that and try again.
-We didn’t do it and it wasn’t the right thing to do: This is tricky. Maybe you learned early on the plan was bound for failure and changed it. In that case, ask the questions of the new plan. Be wary if you just sort of gave up without any information.
+ * We did it and it was the right thing to do: Great! Do it again!
+ * We did it and it wasn’t the right thing to do: You learned something. Make a change and do that.
+ * We didn’t do it and it was the right thing to do: There was some sort of execution failure. Identify that and try again.
+ * We didn’t do it and it wasn’t the right thing to do: This is tricky. Maybe you learned early on the plan was bound for failure and changed it. In that case, ask the questions of the new plan. Be wary if you just sort of gave up without any information.
 
 What if you don’t have the plan from before? Then just describe what you actually did and the answer to the first question is yes.
 
