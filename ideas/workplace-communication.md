@@ -43,7 +43,7 @@ Yes.
 ## More Thoughts
 I see three variations of workplace communication that I’m interested in. The first is things like updates, but that’s covered in [Workplace Education](/ideas/workplace-education). The next is tiered communication and task assignment, which I’ll talk about here.
 
-Somehow, most companies end up with a system where everyone’s attention is dominated by their communication tools (which is terrible on its own), but they’re not even getting great responses. Tools like Slack create a culture where everyone is always on, which is terrible for productivity. (This is heavily inspired by Deep Work).
+Somehow, most companies end up with a system where everyone’s attention is dominated by their communication tools (which is terrible on its own), but they’re not even getting great responses. Tools like Slack create a culture where everyone is always on, which is decreases productivity. (This is heavily inspired by [Deep Work](https://www.calnewport.com/books/deep-work/)).
 
 A solution to this could be a tiered communication system. One method for when you need a response immediately and are willing to interrupt the person, one for when you need a response within 2 hours and one when you need a response within 36 hours (essentially end of day tomorrow).
 
