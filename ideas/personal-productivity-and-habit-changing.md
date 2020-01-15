@@ -40,7 +40,7 @@ I'm the target user.
 Yes.
 
 ## More Thoughts
-I cobbled together a system for tracking tasks and habits, and it has had a huge effect on my productivity. I think of it three levels.
+I cobbled together a system for tracking tasks and habits, and it has had a huge effect on my productivity. I think of it in three levels.
 
 First is the meta-system. It’s how I make sure the system is working. I’m doing weekly reviews and writing things down. It’s similar to the idea of [Reflection](/ideas/reflection), but there’s nothing groundbreaking here.
 
