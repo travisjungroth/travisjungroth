@@ -41,7 +41,7 @@ I'm the target user (when I'm working at a company).
 Yes.
 
 ## More Thoughts
-I see three variations of workplace communication that I’m interested. The first is things like updates, but that’s covered in [Workplace Education](/ideas/workplace-education). The next is tiered communication and task assignment, which I’ll talk about here.
+I see three variations of workplace communication that I’m interested in. The first is things like updates, but that’s covered in [Workplace Education](/ideas/workplace-education). The next is tiered communication and task assignment, which I’ll talk about here.
 
 Somehow, most companies end up with a system where everyone’s attention is dominated by their communication tools (which is terrible on its own), but they’re not even getting great responses. Tools like Slack create a culture where everyone is always on, which is terrible for productivity. (This is heavily inspired by Deep Work).
 
