@@ -2,7 +2,7 @@
 title: "Reflection"
 ---
 # Reflection
-**I'm not persuing this idea as a product right now. You can see what I'm working on on the [homepage](/).** I'll keep using this for myself and "learning from the past" will be the secret weapon of my startup.
+**I'm not persuing this idea as a product right now.** You can see what I'm working on on the [homepage](/). I'll keep using this for myself and "learning from the past" will be the secret weapon of my startup.
 ## Description
 ### Problem
 I’m not sure how good I am at following through on things, and I’d like to be better. I think as an individual and as organizations, we come up with these big plans but don’t look backwards to decide if they were right or we even did them. There's an overlap with this and [Workplace Education](/ideas/workplace-education) as well as [Personal Productivity and Habit Changing](/ideas/personal-productivity-and-habit-changing). Much more detail [below](#more-thoughts).
