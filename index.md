@@ -2,13 +2,14 @@
 
 If you'd like to talk about starting a startup or know someone who would, email me at [jungroth@gmail.com](mailto:jungroth@gmail.com) or just throw something on [my calendar](https://calendly.com/travisjungroth/30min).
 
-## Ideas I'm interested in
+## Ideas I'm working on
 ### Workplace Education
 How do you efficiently change behavior at work? [read more](/ideas/workplace-education)
 
 ### Creating Test Data
 Creating test data for manual QA is hard but could be really easy. [read more](/ideas/creating-test-data)
 
+## Ideas I think are neat but not working on as a product
 ### Personal Productivity and Habit Changing
 I've hacked together a system for productivity, learning and habit change using Todoist, Airtable, Zapier and Anki. I like it more than any off-the-shelf solution, which is weird. [read more](/ideas/personal-productivity-and-habit-changing)
 
