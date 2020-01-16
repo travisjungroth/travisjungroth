@@ -2,6 +2,7 @@
 title: "Personal Productivity and Habit Changing"
 ---
 # Personal Productivity and Habit Changing
+**I'm not persuing this idea as a product right now. You can see what I'm working on on the [homepage](/).** I'm going to just keep working on this one for myself.
 ## Description
 ### Problem
 I've hacked together a system for productivity, learning and habit change using Todoist, Airtable, Zapier and Anki. I like it more than any off-the-shelf solution, which is weird. Much more detail [below](#more-thoughts).
