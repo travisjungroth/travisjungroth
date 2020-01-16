@@ -2,7 +2,7 @@
 title: "Workplace Communication"
 ---
 # Workplace Communication
-**I'm not persuing this idea as a product right now. You can see what I'm working on on the [homepage](/).** I'll bring these ideas into any company I start by putting something together.
+**I'm not persuing this idea as a product right now.** You can see what I'm working on on the [homepage](/). I'll bring these ideas into any company I start by putting something together.
 ## Description
 ### Problem
 Workplace communication both prevents deep work and encourages slow responses. Much more detail [below](#more-thoughts).
