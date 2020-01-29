@@ -55,4 +55,4 @@ Minor League Baseball is of course a niche, but it could be like the books at Am
 
 From the super specific, my mind skips past all of the other specific applications (with a small stop at flight training) and jumps to everyone. What would an ISA credit card look like? What would an ISA LendingClub look like? What would have to happen for more students to use ISAs than loans? I don’t have answer to these, but they’re fun questions.
 
-If you'd like to talk about this idea, email me at [jungroth@gmail.com](mailto:jungroth@gmail.com) or put a time for a video call on [my calendar](https://calendly.com/travisjungroth/30min).
+If you'd like to talk about this idea, email me at [jungroth@gmail.com](mailto:jungroth@gmail.com) or put a time for a video call on [my calendar](https://calendly.com/travisjungroth/chat).

@@ -55,4 +55,4 @@ The system is pretty simple. I have a “habit” project in Todoist. In it are 
 
 I’d love to have this all in one system. The tasks and habit tracking especially, but maybe some of the meta system and the habits as well. 
 
-If you'd like to talk about this idea, email me at [jungroth@gmail.com](mailto:jungroth@gmail.com) or put a time for a video call on [my calendar](https://calendly.com/travisjungroth/30min).
+If you'd like to talk about this idea, email me at [jungroth@gmail.com](mailto:jungroth@gmail.com) or put a time for a video call on [my calendar](https://calendly.com/travisjungroth/chat).

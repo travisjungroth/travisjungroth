@@ -69,4 +69,4 @@ Maybe this is like expressing gratitude. It’s great for you, but no one does i
 
 Still, I might make something just cause I want it.
 
-If you'd like to talk about this idea, email me at [jungroth@gmail.com](mailto:jungroth@gmail.com) or put a time for a video call on [my calendar](https://calendly.com/travisjungroth/30min).
+If you'd like to talk about this idea, email me at [jungroth@gmail.com](mailto:jungroth@gmail.com) or put a time for a video call on [my calendar](https://calendly.com/travisjungroth/chat).

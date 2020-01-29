@@ -105,4 +105,4 @@ Even once the instructions are received, they're not stable. People forget. Or w
 
 I think there's a lot to be learned in comparing existing workplace education to code deployment. What would "continuous deployment for people" look like? What would happen if McDonald's could update their staff as fast as their servers? What does each component translate to (staging servers, testing, etc) in a person? I have some ideas.
 
-If you'd like to talk about this idea, email me at [jungroth@gmail.com](mailto:jungroth@gmail.com) or put a time for a video call on [my calendar](https://calendly.com/travisjungroth/30min).
+If you'd like to talk about this idea, email me at [jungroth@gmail.com](mailto:jungroth@gmail.com) or put a time for a video call on [my calendar](https://calendly.com/travisjungroth/chat).

@@ -59,4 +59,4 @@ I think there’s a real problem here, in a growing market. I have a vague idea 
 
 I have a few big open questions. How do you isolate the activity of a tester so people can record/test at the same time? Will this work with microservices?
 
-If you'd like to talk about this idea, email me at [jungroth@gmail.com](mailto:jungroth@gmail.com) or put a time for a video call on [my calendar](https://calendly.com/travisjungroth/30min).
+If you'd like to talk about this idea, email me at [jungroth@gmail.com](mailto:jungroth@gmail.com) or put a time for a video call on [my calendar](https://calendly.com/travisjungroth/chat).
