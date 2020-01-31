@@ -2,6 +2,7 @@
 title: "Income Share Agreements for Everyone"
 ---
 # Income Share Agreements for Everyone
+**I'm not persuing this idea as a product right now.** You can see what I'm working on on the [homepage](/).
 ## Description
 ### Problem
 Getting access to money, even when it will make your life better, is hard. Much more detail [below](#more-thoughts).
