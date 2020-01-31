@@ -2,6 +2,7 @@
 title: "Workplace Education"
 ---
 # Workplace Education
+**I'm not persuing this idea as a product right now.** You can see what I'm working on on the [homepage](/).
 ## Description
 ### Problem
 Getting everyone at a company to know something is really slow and expensive. People generally don’t know the right thing much of the time. Much more detail [below](#more-thoughts).
