@@ -4,8 +4,10 @@ title: "Employee Analytics"
 # Employee Analytics
 ## Description
 ### Problem
+Employees don't know the exact behaviors that are different between the best and worse employees. What they do know, they have a hard time changin.
 
 ### Possible Solutions
+Use regression and machine learning to identify the digital behaviors that make for the best employees. Give this information to the managers, and prompt the employees throughout the day.
 
 ## Evaluation
 The scorecards below are explained [here](/scorecards-explained).
@@ -17,7 +19,7 @@ The scorecards below are explained [here](/scorecards-explained).
 | Urgent    | >Year  | <Year        | <Month    | ✔️Right now   |
 | Expensive | <$10m  | >$10m        | >$100m    | ✔️$1b+        |
 | Mandatory | Averse | Nice to have | ✔️Important | Law changed |
-| Frequent  | Yearly | Monthly      | ✔️Weekly    | Hourly      |
+| Frequent  | Yearly | Monthly      | Weekly    | ✔️Hourly      |
 
 ### Insight
 |   Metric    |            | Won't have | Can have | Have |
@@ -30,7 +32,10 @@ The scorecards below are explained [here](/scorecards-explained).
 
 ### Additional
 #### Who desperately needs this product?
+Teams with skewed performance between members.
 
 #### Am I the target user, know them extremely well, or neither?
+Know them extremely well.
 
 #### Is this designed and created to grow very quickly?
+Yes.
