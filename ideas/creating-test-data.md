@@ -2,7 +2,7 @@
 title: "Creating Test Data"
 ---
 # Creating Test Data
-I made a prototype of this idea and a [video](https://www.loom.com/share/8e7be6d899bd498ea7e9325812a9d459).
+**I'm not persuing this idea as a product right now.** You can see what I'm working on on the [homepage](/). I made a prototype of this idea and a [video](https://www.loom.com/share/8e7be6d899bd498ea7e9325812a9d459).
 ## Description
 ### Problem
 Creating test data for manual QA is hard. Creating test data for an external test system ([Rainforest QA](https://rainforestqa.com), Selenium as a separate service) is even harder. People who write test plans often aren't able to code. Much more detail [below](#more-thoughts).
