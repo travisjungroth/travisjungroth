@@ -1,4 +1,8 @@
 ## Ideas I think are neat but am not working on as a product
+
+### Employee Analytics
+How do you know what employee behaviors really make a difference? [read more](/ideas/employee-analytics)
+
 ### Workplace Education
 How do you efficiently change behavior at work? [read more](/ideas/workplace-education)
 
