@@ -7,7 +7,7 @@ title: "Junior Software Engineers"
 It's really hard for new software engineers to contribute to existing projects, whether they're working at a company or want to contribute to open source. 
 
 ### Possible Solutions
-An app that pulls off junior level tasks and managers their workflow so they can happen in parallel to other tasks. The first would be converting manual QA tickets to automated tests.
+An app that pulls off junior level tasks and manages their workflow so they can happen in parallel to other tasks. The first would be converting manual QA tickets to automated tests.
 
 ## Evaluation
 The scorecards below are explained [here](/scorecards-explained).
@@ -36,7 +36,6 @@ Junior software engineers who aren't sure how to contribute. Software companies 
 
 #### Am I the target user, know them extremely well, or neither?
 I was the target user, I know them extremely well, and as when I grow a startup I will be the target user (from the other side).
-
 
 #### Is this designed and created to grow very quickly?
 Yes.
