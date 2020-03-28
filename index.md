@@ -30,3 +30,4 @@ Cofounders who want to work on interesting stuff together to both test and build
  * Made a profitable cryptocurrency trading bot
  * Owned a flight school
  * Worked in many different jobs
+ * Mentored junior devs
