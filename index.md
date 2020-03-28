@@ -3,7 +3,7 @@
 If you'd like to talk about starting a startup or know someone who would, email me at [jungroth@gmail.com](mailto:jungroth@gmail.com) or just throw something on [my calendar](https://calendly.com/travisjungroth/chat).
 
 ## What I'm working on
-It's really hard junior developers to contribute to projects. I'm trying to make that easier. The project is called Highly Composite.
+It's really hard for junior developers to contribute to projects. I'm trying to make that easier. The project is called Highly Composite.
 
 ## Where I am right now
 I'm living in Mexico City and working on Highly Composite full time. I may move back to the Bay Area.
