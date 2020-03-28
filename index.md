@@ -3,10 +3,10 @@
 If you'd like to talk about starting a startup or know someone who would, email me at [jungroth@gmail.com](mailto:jungroth@gmail.com) or just throw something on [my calendar](https://calendly.com/travisjungroth/chat).
 
 ## What I'm working on
-Using machine learning figure out what the best employees do, and encourage everyone to do that. I'm focusing on Sales Development Representatives at the moment.
+It's really hard junior developers to contribute to projects. I'm trying to make that easier. The project is called Highly Composite.
 
 ## Where I am right now
-I'm living in Mexico City and working on Employee Analytics full time. I may move back to the Bay Area.
+I'm living in Mexico City and working on Highly Composite full time. I may move back to the Bay Area.
 
 ## What I'm looking for
 Cofounders who want to work on interesting stuff together to both test and build professional relationships. I'm also just happy to chat on a quick video call. 
