@@ -3,10 +3,10 @@
 If you'd like to talk about starting a startup or know someone who would, email me at [jungroth@gmail.com](mailto:jungroth@gmail.com) or just throw something on [my calendar](https://calendly.com/travisjungroth/chat).
 
 ## What I'm working on
-It's really hard for junior developers to contribute. I'm trying to make that easier. The project is called Highly Composite. [read more](/ideas/junior-software-engineers)
+Managing data for testing environment is a pain. The project is called Highly Composite. I've got an MVP [up live](https://highlycomposite.com/demo). Here's [more](/ideas/creating-test-data) about the idea.
 
 ## Where I am right now
-I'm living in Mexico City and working on Highly Composite full time. I may move back to the Bay Area.
+I'm living in Mexico City and working on Highly Composite full time. I'm going back to the US soon, then Santiago, Chile if I get into Start-Up Chile.
 
 ## What I'm looking for
 Cofounders who want to work on interesting stuff together to both test and build professional relationships. I'm also just happy to chat on a quick video call. 
