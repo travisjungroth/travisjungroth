@@ -11,7 +11,7 @@ I'm living in Oaxaca, Mexico and working on Highly Composite full time. I'm goin
 ### Technology
  * Python
  * Django
- * Z3
+ * Clojure
  * Heroku
 
 ### Activities
