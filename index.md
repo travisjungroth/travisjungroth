@@ -1,9 +1,5 @@
-## What I'm working on
-Managing data for testing environment is a pain. The project is called Highly Composite. I've got an MVP [up live](https://highlycomposite.com/demo). Here's [more](/ideas/creating-test-data) about the idea.
-
 ## Where I am right now
-I'm living in Oaxaca, Mexico and working on Highly Composite full time. I'm going back to the US in October, then who knows where. 
-
+I'm living in Tulum, Mexico.
 ## Stuff I like
 ### Interesting ideas
 [Listed here](/ideas)
@@ -11,7 +7,6 @@ I'm living in Oaxaca, Mexico and working on Highly Composite full time. I'm goin
 ### Technology
  * Python
  * Django
- * Clojure
  * Heroku
 
 ### Activities
