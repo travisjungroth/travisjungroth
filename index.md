@@ -1,5 +1,5 @@
 ## Where I am right now
-I'm living in Tulum, Mexico.
+In a hut in Peru without internet or snacks.
 ## Stuff I like
 ### Interesting ideas
 [Listed here](/ideas)
