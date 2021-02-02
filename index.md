@@ -1,5 +1,5 @@
 ## Where I am right now
-In a hut in Peru without internet or snacks.
+In Tulum, Mexico coding, cave diving, and making joke cryptocurrencies.
 ## Stuff I like
 ### Interesting ideas
 [Listed here](/ideas)
