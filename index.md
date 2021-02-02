@@ -1,5 +1,5 @@
 ## Where I am right now
-In Tulum, Mexico coding, cave diving, and making joke cryptocurrencies.
+In Tulum, Mexico. I'm coding, cave diving, and making joke cryptocurrencies.
 ## Stuff I like
 ### Interesting ideas
 [Listed here](/ideas)
