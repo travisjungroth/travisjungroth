@@ -1,3 +1,6 @@
+---
+title: Be Generous With Your Interfaces
+---
 Be generous with your interfaces. Take as little as you need, give as much as you can.
 
 Imagine getting a driver's license in a foreign country. You need a birth certificate, fingerprint, and proof of residency like a utility bill in your name. But you need a local bank account to get a utility bill and you need local ID to get a bank account...
