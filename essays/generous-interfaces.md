@@ -22,9 +22,8 @@ All of this also applies to functions. It's even easier.
 Why try to be generous? It's not just to be nice. It's because control only gets you so far. People are out there implementing classes with dummy values for mandatory attributes. They're doing this because they still find the code useful. This means that they're right and whoever wrote the class was wrong about this thing being "mandatory".
 
 If you want people to use your code in the way that you want, one path is to want less. When you can, try to not be like the DMV. Be like the ocean.
-  
-  
-  
-  
+
+---
+
 #### Notes
 \[1\] And if you want a [SemiMutableSequence](https://github.com/travisjungroth/compromise)...
