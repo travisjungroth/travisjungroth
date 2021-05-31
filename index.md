@@ -1,5 +1,5 @@
 ## New stuff
-Check out [Be Generous With Your Interfaces](/essays/generous-interfaces)
+Check out [Be Generous With Your Interfaces](/essays/generous-interfaces).
 
 ## Where I am right now
 In Tulum, Mexico. I'm coding, cave diving, and making joke cryptocurrencies.
