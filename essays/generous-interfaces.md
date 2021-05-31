@@ -13,12 +13,18 @@ A good code example is the iterator protocol in Python. Define `__iter__` and yo
 
 There are more. If you define `__len__` you can call `len()` on your class. If you define `__getitem__` you can use the square bracket syntax, `like_this[0]`. And if you do both and inherit from `collections.abc.Sequence`, you can also use `reversed`, check containment with `in`, you get `.index()` and `.count()` methods and, oh, everything from the iterator protocol I mentioned earlier. `Sequence` asks you to give two things and gives you five really good things back.
 
-If you keep asking yourself "how little can I ask for and how much can I give?", it will lead you towards composition. `Sequence` is halfway up the inheritance tree in `collections.abc`. If you want a `MutableSequence`, you define three more methods and get six more back.
+If you keep asking yourself "how little can I ask for and how much can I give?", it will lead you towards composition. `Sequence` is halfway up the [inheritance tree](https://docs.python.org/3/library/collections.abc.html#collections-abstract-base-classes) in `collections.abc`. If you want a `MutableSequence`, you define three more methods and get six more back. \[1\]
 
-I know complex class hierarchies scare people, and they should. I think that's because we're often using them to make taxonomies. They're pretty bad for that, despite what your introduction to OOP might have said. Dogs don't "extend" Mammal, they don't extend Wolf. They're their own thing.
+I know complex class hierarchies scare people, and they should. I think that's because we're often using them to make taxonomies. They're pretty bad for that, despite what your introduction to OOP might have said. Dogs don't "extend" Mammal. They don't extend Wolf. They're their own thing.
 
 All of this also applies to functions. It's even easier.
 
 Why try to be generous? It's not just to be nice. It's because control only gets you so far. People are out there implementing classes with dummy values for mandatory attributes. They're doing this because they still find the code useful. This means that they're right and whoever wrote the class was wrong about this thing being "mandatory".
 
 If you want people to use your code in the way that you want, one path is to want less. When you can, try to not be like the DMV. Be like the ocean.
+  
+  
+  
+  
+#### Notes
+\[1\] And if you want a [SemiMutableSequence](https://github.com/travisjungroth/compromise)...
