@@ -2,7 +2,7 @@
 [Be Generous With Your Interfaces](/essays/generous-interfaces)
 
 ## Where I am right now
-In Tulum, Mexico. I'm coding, cave diving, and making joke cryptocurrencies.
+I'm in the Bay Area, working at Netflix.
 
 ## Stuff I like
 ### Interesting ideas
