@@ -1,4 +1,7 @@
-## New stuff
+## Notes
+I'm trying out writing zettelkasten style [notes](https://d21kh9ne3pdop0.cloudfront.net/) in public.
+
+## Essays
 [Be Generous With Your Interfaces](/essays/generous-interfaces)
 
 ## Where I am right now
