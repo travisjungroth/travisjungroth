@@ -7,7 +7,8 @@ As of April 2024, I'm living in San Francisco and doing a lot of contact improv.
 * Dance
 * Decision theory
 * Ceremonies
-* Acro yoga
+* Binoculars
+* Astronomy
 * Math
 * Singing
 * Python
