@@ -1,5 +1,5 @@
 ## Where I am right now
-I'm in San Francisco, working at Netflix.
+As of April 2024, I'm living in San Francisco and doing a lot of contact improv. I'll soon be going to Peru for a while.
 
 ## Stuff I like
 ### Activities
@@ -11,9 +11,6 @@ I'm in San Francisco, working at Netflix.
 * Math
 * Singing
 * Python
-
-### Interesting ideas
-[Listed here](/ideas)
  
 ## The past
  * Worked as a software engineer
