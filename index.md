@@ -1,5 +1,5 @@
 ## Where I am right now
-As of April 2024, I'm living in San Francisco and doing a lot of contact improv. I'll soon be going to Peru for a while.
+[October 22nd, 2024] I'm in Northern Arizona. I'm visiting friends on the Hopi reservation, then solo camping. Over the next month, I expect to go to Berkeley, CA and then Paohyan, Peru. I've spent the last few months mostly in the Bay Area, mostly doing contact improvisation.
 
 ## Stuff I like
 ### Activities
@@ -18,5 +18,4 @@ As of April 2024, I'm living in San Francisco and doing a lot of contact improv.
  * Made a profitable cryptocurrency trading bot
  * Owned a flight school
  * Worked in many different jobs
- * Mentored junior devs
- * Cave diving
+ * Did cave diving in Tulum
