@@ -19,3 +19,5 @@
  * Owned a flight school
  * Worked in many different jobs
  * Did cave diving in Tulum
+
+You can contact me at my last name at gmail. I'm often unavailble for weeks at a time.
